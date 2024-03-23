@@ -1,16 +1,17 @@
 ### *{ Olá }* eu sou Wilian Correa
 
-- 😄 Graduando na **Fatec-ZL (curso ADS)**
-- 😄 Cursando **Programador Web** - Senac
-- ⚡ Pronomes: *ele/dele*
-<img>
+- 🎓 Graduando na **Fatec-ZL (curso ADS)**
+- 🚀 Cursando **Programador Web** - Senac
+- ✨ Pronomes: *ele/dele*
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)
 
-</img>
+
+
 <!--
 **WillCorreaS/WillCorreaS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)
 
 Here are some ideas to get you started:
 
